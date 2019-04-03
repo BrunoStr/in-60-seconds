@@ -48,5 +48,3 @@
 ---?color=#E58537
 
 ![](assets/img/demo3.JPG)
-
-
