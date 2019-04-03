@@ -44,7 +44,6 @@
 ![](assets/img/demo3.JPG)
 @snapend
 
-
 ---?color=#E58537
 
 ![](assets/img/demo2.JPG)
