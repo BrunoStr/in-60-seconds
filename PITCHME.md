@@ -37,11 +37,11 @@
 ## @color[white](**Unity3D**)
 @snapend
 
-@snap[west span-60]
+@snap[west span-50]
 ![](assets/img/demo1.PNG)
 @snapend
 
-@snap[east span-60]
+@snap[east span-50]
 ![](assets/img/demo3.JPG)
 @snapend
 
