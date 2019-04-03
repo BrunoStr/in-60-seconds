@@ -20,6 +20,8 @@
 ![](assets/img/inhoud2.PNG)
 @snapend
 
+---?color=#E58537
+
 @snap[south span-50]
 ![](assets/img/inhoud3.PNG)
 @snapend
@@ -33,9 +35,12 @@
 @snapend
 
 @snap[east span-50]
-![](assets/img/demo2.PNG)
+![](assets/img/demo2.JPG)
 @snapend
 
+
+---?color=#E58537
+
 @snap[south span-50]
-![](assets/img/demo3.PNG)
+![](assets/img/demo3.JPG)
 @snapend
