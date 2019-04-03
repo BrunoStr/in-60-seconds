@@ -2,6 +2,8 @@
 
 ## @color[red](**Virtual reality als sleutel tot succesvolle revalidatie**)
 
+(pitch)
+
 ---?color=#E58537
 
 @snap[north]
