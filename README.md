@@ -60,9 +60,7 @@ Following a *fork* of the repository a **PITCHME.md** markdown file will be
 found in your new repository. This means that your first GitPitch slide deck
 is immediately available at the following URL:
 
-```
-https://gitpitch.com/$USER/in-60-seconds (https://gitpitch.com/BrunoStr/in-60-seconds)
-```
+[https://gitpitch.com/BrunoStr/in-60-seconds] (https://gitpitch.com/BrunoStr/in-60-seconds)
 
 > You must substitute **your** *GitHub* account name for `$USER` in the above slideshow URL.
 
