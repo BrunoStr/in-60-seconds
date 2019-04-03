@@ -1,8 +1,6 @@
 ---?color=#E58537
 
-## @color[red](**Virtual reality als sleutel tot succesvolle revalidatie**)
-
-(pitch)
+## @color[white](**Virtual reality als sleutel tot succesvolle revalidatie**)
 
 ---?color=#E58537
 
