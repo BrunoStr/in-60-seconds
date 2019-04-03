@@ -1,6 +1,6 @@
 ---?color=#E58537
 
-## @color[white](**Virtual reality als sleutel tot succesvolle revalidatie**)
+## @color[red](**Virtual reality als sleutel tot succesvolle revalidatie**)
 
 ---?color=#E58537
 
@@ -36,15 +36,15 @@
 ## @color[white](**Unity3D**)
 @snapend
 
-@snap[west span-80]
+@snap[west span-60]
 ![](assets/img/demo1.PNG)
 @snapend
 
-@snap[east span-80]
-![](assets/img/demo2.JPG)
+@snap[east span-60]
+![](assets/img/demo3.JPG)
 @snapend
 
 
 ---?color=#E58537
 
-![](assets/img/demo3.JPG)
+![](assets/img/demo2.JPG)
