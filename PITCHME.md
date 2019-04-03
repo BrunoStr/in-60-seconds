@@ -1,16 +1,20 @@
 ---?color=#E58537
 
-## @color[white](**Virtual reality als sleutel tot succesvolle revalidatie**)
+## @color[red](**Virtual reality als sleutel tot succesvolle revalidatie**)
 
 ---?color=#E58537
 
+@snap[north-west]
 ## @color[white](**Samenwerking**)
+@snapend
 
 ![](assets/img/synchroon.png)
 
 ---?color=#E58537
 
+@snap[north-west]
 ## @color[white](**Literatuurstudie**)
+@snapend
 
 @snap[west span-50]
 ![](assets/img/inhoud1.PNG)
@@ -28,7 +32,9 @@
 
 ---?color=#E58537
 
+@snap[north-west]
 ## @color[white](**Unity3D**)
+@snapend
 
 @snap[west span-50]
 ![](assets/img/demo1.PNG)
@@ -41,6 +47,5 @@
 
 ---?color=#E58537
 
-@snap[south span-50]
 ![](assets/img/demo3.JPG)
-@snapend
+
