@@ -1,13 +1,22 @@
-# Let's Get Started Bruno
+# Virtual reality als sleutel tot succesvolle revalidatie
 
 ---
 
-## Add Some Slide Candy TEst 
+## Samenwerking
 
 ![](assets/img/presentation.png)
 
 ---
-@title[Customize Slide Layout]
+## Literatuurstudie
+
+@snap[west span-55]
+@ul[spaced text-white]
+- Structuur
+- ![](assets/img/inhoud1.png)
+- ![](assets/img/inhoud2.png)
+- ![](assets/img/inhoud3.png)
+@ulend
+@snapend
 
 @snap[west span-50]
 ## Customize Slide Content Layout
@@ -40,8 +49,18 @@
 ---?image=assets/img/presenter.jpg
 
 @snap[north span-100 headline]
-## Now It's Your Turn
+## Unity3D
 @snapend
+
+@snap[west span-55]
+@ul[spaced text-white]
+- Structuur
+- ![](assets/img/demo1.png)
+- ![](assets/img/demo2.png)
+- ![](assets/img/demo3.png)
+@ulend
+@snapend
+
 
 @snap[south span-100 text-06]
 [Click here to jump straight into the interactive feature guides in the GitPitch Docs @fa[external-link]](https://gitpitch.com/docs/getting-started/tutorial/)
